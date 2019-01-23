@@ -1,0 +1,28 @@
+{
+  "name": "ngx-gtag",
+  "version": "7.0.2",
+  "license": "MIT",
+  "author": "fullstax <fullstaxtech@gmail.com> (https:fullstax.net)",
+  "bugs": {
+    "url": "https://github.com/tonksi/ngx-gtag/issues"
+  },
+  "homepage": "https://fullstax.net",
+  "keywords": [
+    "angular",
+    "angular7",
+    "ng",
+    "ngx",
+    "google analytics",
+    "analytics",
+    "gtag",
+    "gtag.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonksi/ngx-gtag.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
